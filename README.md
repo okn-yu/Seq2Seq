@@ -1,5 +1,5 @@
 # Abstract
-* Implementation of "Sequence to Sequence Learning with Neural Networks"
+* Implementation of "Sequence to Sequence Learning with Neural Networks".
 * https://arxiv.org/pdf/1409.3215.pdf
 
 # Reference
